@@ -1,0 +1,15 @@
+C:\Users\wende\Desktop\wenflix\bin\Debug\net6.0\WenFlix.exe
+C:\Users\wende\Desktop\wenflix\bin\Debug\net6.0\WenFlix.deps.json
+C:\Users\wende\Desktop\wenflix\bin\Debug\net6.0\WenFlix.runtimeconfig.json
+C:\Users\wende\Desktop\wenflix\bin\Debug\net6.0\WenFlix.dll
+C:\Users\wende\Desktop\wenflix\bin\Debug\net6.0\WenFlix.pdb
+C:\Users\wende\Desktop\wenflix\obj\Debug\net6.0\WenFlix.csproj.AssemblyReference.cache
+C:\Users\wende\Desktop\wenflix\obj\Debug\net6.0\WenFlix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wende\Desktop\wenflix\obj\Debug\net6.0\WenFlix.AssemblyInfoInputs.cache
+C:\Users\wende\Desktop\wenflix\obj\Debug\net6.0\WenFlix.AssemblyInfo.cs
+C:\Users\wende\Desktop\wenflix\obj\Debug\net6.0\WenFlix.csproj.CoreCompileInputs.cache
+C:\Users\wende\Desktop\wenflix\obj\Debug\net6.0\WenFlix.dll
+C:\Users\wende\Desktop\wenflix\obj\Debug\net6.0\refint\WenFlix.dll
+C:\Users\wende\Desktop\wenflix\obj\Debug\net6.0\WenFlix.pdb
+C:\Users\wende\Desktop\wenflix\obj\Debug\net6.0\WenFlix.genruntimeconfig.cache
+C:\Users\wende\Desktop\wenflix\obj\Debug\net6.0\ref\WenFlix.dll
